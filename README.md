@@ -22,7 +22,11 @@
 - Evaluate Prospective Employees' Credit Histories
 - Check on Claimants Through Social Media
 
+
+
 [How It Works]
+
+- Register/Connect your vehicle with Insurance provider.
 
 [Demo]
 
@@ -34,12 +38,24 @@
 
 [Competitive Advantage]
 
+- Automatic
+- Improves over time
+
 [Future]
+
+- Premium Calculation
 
 [Team]
 
 [FAQ - End]
 
+Q.) Where do we capture data when it get hit? SD or the cloud?
+Q.) How do we reach the market?
+Q.) How do we prevent false positive?
+A.) Accidents exert extreme forces on a phone that are unlikely to occur when
+dropping it.
+Q.) How do we imporve?
+A.) Collision events can be modeled based on data collected from a smartphone
 
 # Index
 
