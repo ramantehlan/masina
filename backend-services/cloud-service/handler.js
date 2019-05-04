@@ -17,17 +17,22 @@ module.exports.hello = async (event) => {
     var zx=event["queryStringParameters"]["zx"];
     var impactVal=(parseFloat(xy)+parseFloat(yz)+parseFloat(zx)).toString();
 
+    var carNumberValue = Math.floor((Math.random() * 500000) + 100000);
+
     var params = {
       TableName: myTable,
-      Item: {'carNumber' : {S: '100329'}, 'xy' : {S: xy}, 'yz' : {S: yz}, 'zx' : {S: zx}, 'impactValue' : {S: impactVal}}
+      Item: {'carNumber' : {S: carNumberValue.toString()}, 'xy' : {S: xy}, 'yz' : {S: yz}, 'zx' : {S: zx}, 'impactValue' : {S: impactVal}}
     };
   
     var paramsValue = await post(ddb,params);
     console.log(paramsValue);
   
-
     return {
       statusCode: 200,
+      headers: {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Credentials": true
+      },
       body: JSON.stringify({
         message: 'Impact Values sent to Insurance Company Cloud',
         xy,yz,zx,impactValue:parseFloat(parseFloat(xy)+parseFloat(yz)+parseFloat(zx))
@@ -36,6 +41,7 @@ module.exports.hello = async (event) => {
   }catch(e){
     return {
       statusCode: 500,
+
       body: JSON.stringify({
         "errorMessage":e
       }),
