@@ -1,13 +1,15 @@
 <p align="center">
     <img src="./assets/image/logo/mipmap-xxhdpi.png" width="80">
 </p>
-<p align="center"></p>
-Serverless Cloud Service:
-<h4 align="center">https://9wjs6i7ppi.execute-api.us-east-1.amazonaws.com/dev/users/create?xy=1.2&yz=2.3&zx=534</h4>
+
+
 
 <h1 align="center">Mașină</h1>
 <h3 align="center">:car: :mag_right: :bar_chart:</h3>
 <h4 align="center">Transparent car insurance claim</h4>
+
+<p align="center">Serverless Cloud Service:</p>
+<h4 align="center">https://9wjs6i7ppi.execute-api.us-east-1.amazonaws.com/dev/users/create?xy=1.2&yz=2.3&zx=534</h4>
 
 [Problems]
 - Statistics show that the outstanding motor third-party claim amount as on 31 March 2013 was around Rs 22,000 crore.
