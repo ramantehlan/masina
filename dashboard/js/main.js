@@ -989,7 +989,7 @@
       var myChart = new Chart(ctx, {
         type: 'line',
         data: {
-          labels: ["2010", "2011", "2012", "2013", "2014", "2015", "2016"],
+          labels: ["1:20", "3:40", "4:40", "5:09", "9:23", "1:43", "2016"],
           type: 'line',
           defaultFontFamily: 'Poppins',
           datasets: [{
