@@ -14,32 +14,30 @@
 [Problems]
 - Statistics show that the outstanding motor third-party claim amount as on 31 March 2013 was around Rs 22,000 crore.
 - Insurance Fraud
-- Suspicious Loss Indicators
+
+[Market Size]
 
 [Solution]
 - Carry your health card, ID proof and KYC documents to the hospital
 - Analyze Claims History
 - Evaluate Prospective Employees' Credit Histories
 - Check on Claimants Through Social Media
-
+- Suspicious Loss Indicators
 
 
 [How It Works]
 
 - Register/Connect your vehicle with Insurance provider.
 
-[Demo]
+[Cost]
+- GSM SIM800C Modern with antenna [973] 
+- REES52 Arduino uno R3 [449]
+- KitsGuru 9DOF MPU-9250 3 Axis Accelerometer Gyroscope Magnetic Field Sensor Module KG210 [649]
+- M2M Sim [400/Year]
 
-[Market Size]
+[~ 2000 one time | 400/Year]
 
 [Business Model]
-
-[Competition]
-
-[Competitive Advantage]
-
-- Automatic
-- Improves over time
 
 [Future]
 
