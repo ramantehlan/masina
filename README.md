@@ -6,7 +6,34 @@
 <h3 align="center">:car: :mag_right: :bar_chart:</h3>
 <h4 align="center">Transparent car insurance claim</h4>
 
-It will help insurance providers to verify the claims using the actuall data from the cars
+[Problems]
+- Statistics show that the outstanding motor third-party claim amount as on 31 March 2013 was around Rs 22,000 crore.
+- Insurance Fraud
+- Suspicious Loss Indicators
+
+[Solution]
+- Carry your health card, ID proof and KYC documents to the hospital
+- Analyze Claims History
+- Evaluate Prospective Employees' Credit Histories
+- Check on Claimants Through Social Media
+
+[How It Works]
+
+[Demo]
+
+[Market Size]
+
+[Business Model]
+
+[Competition]
+
+[Competitive Advantage]
+
+[Future]
+
+[Team]
+
+[FAQ - End]
 
 
 # Index
@@ -55,12 +82,8 @@ Basic understanding of the file structure is required to do development.
 
 No | File/Dir Name | Details
 ---|---------------|---------
-1  | app/...       | App to display the airplanes on a map in browser
-2  | decoder/...   | Store the decoder program
-3  | .gitignore    | Ignore some of the development file in git
-4  | LICENSE       | MIT License
-5  | README.md     | Current file you are reading
-6  | start         | Start script to run the project
+1  | assets/...    | Store assets of the project
+2  | README.md     | This file.
 
 
 ### Build
@@ -69,7 +92,7 @@ No | File/Dir Name | Details
 
 ## Resources
 
-`To be updated`
+- [https://www.businesstoday.in/moneytoday/cover-story/insurance-claims-prepartion-for-smooth/story/207679.html](https://www.businesstoday.in/moneytoday/cover-story/insurance-claims-prepartion-for-smooth/story/207679.html)
 
 ## Gallery
 
